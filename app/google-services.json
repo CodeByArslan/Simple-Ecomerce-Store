@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556842408007",
+    "project_id": "e-commerce-galaxy-mart",
+    "storage_bucket": "e-commerce-galaxy-mart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556842408007:android:0bfcdb57e54b0857e07962",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_galaxy_mart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjpRZFc9doPKDyrC8gB0lD1fHJBfkQfXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
