@@ -38,7 +38,9 @@ import com.google.firebase.firestore.QuerySnapshot;
 import java.util.ArrayList;
 import java.util.List;
 
-
+/**
+ * This is a home fragment and it does simple thing.
+ */
 public class HomeFragment extends Fragment {
 
     TextView catShowAll,popularShowAll,newProductShowAll;
